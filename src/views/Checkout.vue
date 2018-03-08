@@ -4,7 +4,7 @@
             <div class="js-checkout-address-box">
                 <div class="gray-box clear">
                     <div class="title columns-title pre-title">
-                        <h2>收货信息1</h2>
+                        <h2>收货信息</h2>
                     </div>
                     <div class="box-inner js-checkout-address-panel ">
                         <div class="address-common-table js-multiple-address-panel">
